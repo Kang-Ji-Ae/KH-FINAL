@@ -16,9 +16,6 @@ Spring Framework, mybatis를 사용한 공간 대여 시스템 파이널 프로�
    - ojdbc6
    - commons-fileupload
    - commons-dbcp2
-   - jackson-databind
-   - spring-websocket
-   - gson
    - spring-security-core
    - spring-security-config
    - spring-jdbc
