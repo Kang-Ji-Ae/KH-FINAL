@@ -31,24 +31,24 @@ Spring Framework, mybatis를 사용한 공간 대여 시스템 파이널 프로�
 
 ### 담당한 파트
 * 회원
-- 회원가입 
-- 로그인 
-- 로그아웃 
-- 탈퇴
+   - 회원가입 
+   - 로그인 
+   - 로그아웃 
+   - 탈퇴
 
 * 관리자
-- 로그인 
-- 로그아웃
-- 후기신고 게시판
-- 후기관리(불량,광고 등) 게시판
+   - 로그인 
+   - 로그아웃
+   - 후기신고 게시판
+   - 후기관리(불량,광고 등) 게시판
 
 * 게시판 
-- 후기 게시판 CRUD 
-- 불량 후기 신고처리(게시글 담당자가 관리자에게 신고)
+   - 후기 게시판 CRUD 
+   - 불량 후기 신고처리(게시글 담당자가 관리자에게 신고)
 
 ### 소스코드 경로
 * front-end
-kh-final/src/main/webapp/WEB-INF/views/
+   kh-final/src/main/webapp/WEB-INF/views/
 
 * back-end
-kh-final/src/main/java/kr/co/billiejoe/
+   kh-final/src/main/java/kr/co/billiejoe/
