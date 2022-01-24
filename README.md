@@ -51,4 +51,4 @@ Spring Framework, mybatis를 사용한 공간 대여 시스템 파이널 프로�
    kh-final/src/main/webapp/WEB-INF/views/
 
 * back-end
-   kh-final/src/main/java/kr/co/billiejoe/
+   - https://github.com/Kang-Ji-Ae/kh-final/tree/master/src/main/java/kr/co/billiejoe
