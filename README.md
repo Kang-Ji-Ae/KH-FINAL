@@ -47,8 +47,11 @@ Spring Framework, mybatis를 사용한 공간 대여 시스템 파이널 프로�
    - 불량 후기 신고처리(게시글 담당자가 관리자에게 신고)
 
 ### 소스코드 경로
-* front-end
-   kh-final/src/main/webapp/WEB-INF/views/
+* front-end(html)
+   - https://github.com/Kang-Ji-Ae/kh-final/tree/master/src/main/webapp/WEB-INF/views
+
+* front-end(css & js)
+
 
 * back-end
    - https://github.com/Kang-Ji-Ae/kh-final/tree/master/src/main/java/kr/co/billiejoe
