@@ -23,7 +23,6 @@ Spring Framework, mybatis를 사용한 공간 대여 시스템 파이널 프로�
    - spring-security-config
    - spring-jdbc
    - mybatis-spring
-   - ... 자세한 것은 pom.xml의 dependency 확인...
 * MyBatis
 * taglibs
    - jstlel 1.2.5
