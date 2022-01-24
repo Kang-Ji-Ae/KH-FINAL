@@ -13,8 +13,10 @@ final 프로젝트
 3) 게시판
 후기 게시판 CRUD 및 후기 신고
 
-front파트
+코드경로
+
+( front-end )
 kh-final/src/main/webapp/WEB-INF/views/
 
-back 파트
+( back-end )
 kh-final/src/main/java/kr/co/billiejoe/
